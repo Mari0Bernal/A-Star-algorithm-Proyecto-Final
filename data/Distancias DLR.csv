@@ -1,0 +1,86 @@
+Origen,Destino,DLR
+Los Angeles,Dallas,1237
+Barstow,Dallas,1168
+San Diego,Dallas,1181
+Las Vegas,Dallas,1223
+St.George,Dallas,995
+Cortez,Dallas,736
+Liberal,Dallas,376
+Oklahoma City,Dallas,190
+Phoenix,Dallas,884
+Flagstaff,Dallas,866
+Tucson,Dallas,826
+Springerville,Dallas,725
+Albuquerque,Dallas,586
+El Paso,Dallas,570
+Amarillo,Dallas,333
+Big Spring,Dallas,274
+Dallas,Dallas,0
+Los Angeles,Phoenix,356
+Barstow,Phoenix,300
+San Diego,Phoenix,299
+Las Vegas,Phoenix,256
+St.George,Phoenix,266
+Cortez,Phoenix,333
+Liberal,Phoenix,662
+Oklahoma City,Phoenix,839
+Dallas,Phoenix,884
+Flagstaff,Phoenix,123
+Tucson,Phoenix,106
+Springerville,Phoenix,167
+Albuquerque,Phoenix,329
+El Paso,Phoenix,345
+Amarillo,Phoenix,596
+Big Spring,Phoenix,620
+Phoenix,Phoenix,0
+Los Angeles,Albuquerque,663
+Barstow,Albuquerque,587
+San Diego,Albuquerque,624
+Las Vegas,Albuquerque,482
+St.George,Albuquerque,411
+Cortez,Albuquerque,190
+Liberal,Albuquerque,334
+Oklahoma City,Albuquerque,515
+Dallas,Albuquerque,586
+Flagstaff,Albuquerque,282
+Tucson,Albuquerque,317
+Springerville,Albuquerque,163
+El Paso,Albuquerque,229
+Amarillo,Albuquerque,272
+Big Spring,Albuquerque,356
+Phoenix,Albuquerque,329
+Albuquerque,Albuquerque,0
+Los Angeles,Oklahoma City,1178
+Barstow,Oklahoma City,1100
+San Diego,Oklahoma City,1137
+Las Vegas,Oklahoma City,986
+St.George,Oklahoma City,900
+Cortez,Oklahoma City,628
+Liberal,Oklahoma City,232
+Phoenix,Oklahoma City,839
+Flagstaff,Oklahoma City,796
+Tucson,Oklahoma City,803
+Springerville,Oklahoma City,673
+Albuquerque,Oklahoma City,515
+El Paso,Oklahoma City,575
+Amarillo,Oklahoma City,243
+Big Spring,Oklahoma City,317
+Dallas,Oklahoma City,190
+Oklahoma City,Oklahoma City,0
+Los Angeles,Los Angeles,0
+Barstow,Los Angeles,90
+San Diego,Los Angeles,111
+Las Vegas,Los Angeles,228
+St.George,Los Angeles,336
+Cortez,Los Angeles,587
+Liberal,Los Angeles,979
+Oklahoma City,Los Angeles,1178
+Phoenix,Los Angeles,356
+Flagstaff,Los Angeles,382
+Tucson,Los Angeles,439
+Springerville,Los Angeles,512
+Albuquerque,Los Angeles,663
+El Paso,Los Angeles,699
+Amarillo,Los Angeles,935
+Big Spring,Los Angeles,977
+Dallas,Los Angeles,1237

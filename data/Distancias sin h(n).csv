@@ -1,0 +1,62 @@
+Origen,Destino,g(n),TiempoRecorrido
+Los Angeles,Barstow,114,1:38
+Los Angeles,San Diego,116,1:43
+Los Angeles,Phoenix,372,5:17
+Barstow,Las Vegas,157,2:17
+Barstow,Flagstaff,352,5:06
+Barstow,San Diego,176,2:31
+Las Vegas,St George,119,1:50
+Las Vegas,Phoenix,293,5:33
+St George,Cortez,381,6:28
+St George,Flagstaff,289,5:36
+Flagstaff,Phoenix,143,2:07
+Flagstaff,Albuquerque,323,4:41
+Flagstaff,Cortez,267,5:30
+Phoenix,Springerville,221,4:05
+Phoenix,El Paso,429,6:15
+Phoenix,Tucson,114,1:44
+Phoenix,Flagstaff,143,2:07
+Springerville,Albuquerque,262,3:52
+Springerville,Phoenix,221,4:05
+Tucson,El Paso,317,4:38
+Cortez,Albuquerque,256,4:50
+Albuquerque,Liberal,383,6:12
+Albuquerque,Amarillo,288,4:11
+Albuquerque,Big Spring,430,7:27
+Albuquerque,El Paso,265,3:54
+Albuquerque,Springerville,262,3:52
+Albuquerque,Flagstaff,323,4:41
+Albuquerque,Cortez,256,4:50
+El Paso,Amarillo,417,8:17
+El Paso,Big Spring,345,5:25
+El Paso,Phoenix,429,6:15
+Amarillo,Liberal,162,3:05
+Amarillo,Big Spring,227,3:56
+Amarillo,Oklahoma City,258,3:43
+Amarillo,Dallas,362,5:29
+Big Spring,Dallas,290,4:35
+Oklahoma City,Dallas,206,3:06
+Oklahoma City,Liberal,307,4:51
+Oklahoma City,Amarillo,258,3:43
+Dallas,Big Spring,290,4:35
+Dallas,Amarillo,362,5:29
+Dallas,Oklahoma City,206,3:06
+Big Spring,Amarillo,227,3:56
+Big Spring,Albuquerque,430,7:27
+Big Spring,El Paso,345,5:25
+Amarillo,Albuquerque,288,4:11
+Amarillo,El Paso,417,8:17
+Liberal,Oklahoma City,307,4:51
+Liberal,Amarillo,162,3:05
+Liberal,Albuquerque,383,6:12
+El Paso,Albuquerque,265,3:54
+Cortez,Flagstaff,267,5:30
+Cortez,St George,381,6:28
+Flagstaff,St George,289,5:36
+Flagstaff,Barstow,352,5:06
+St George,Las Vegas,119,1:50
+Phoenix,Las Vegas,293,5:33
+Phoenix,Los Angeles,372,5:17
+Tucson,Phoenix,114,1:44
+Las Vegas,Barstow,157,2:17
+Barstow,Los Angeles,114,1:38
